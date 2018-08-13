@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "28074364238",
+    "firebase_url": "https://conservacao-de-rede-vivo-3c2b8.firebaseio.com",
+    "project_id": "conservacao-de-rede-vivo-3c2b8",
+    "storage_bucket": "conservacao-de-rede-vivo-3c2b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28074364238:android:4febe5d989dee4da",
+        "android_client_info": {
+          "package_name": "br.net.dks.conservaoderede_vivocge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28074364238-tpdjbbq57hfe509s4jeapd7ujpj1c1m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3rWXb3zNqrm7aWodZW1HcyZg_mT-Klnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
